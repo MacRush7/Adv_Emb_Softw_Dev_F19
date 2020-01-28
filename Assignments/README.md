@@ -1,3 +1,3 @@
-# Projects Repository
+# Assignments Repository
 
-This folder contains the three primary projects that are covered in the ECEN 5783 Embedded Interface Design (EID) Fall-2019 course.
+This folder contains the assignment projects that were built in the ECEN 5013 Advanced Embedded Software Development (AESD) Fall-2019 course.
