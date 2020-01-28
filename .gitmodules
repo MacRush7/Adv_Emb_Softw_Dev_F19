@@ -1,3 +1,9 @@
 [submodule "Assignments/Assignment-1/aesd-assignments-MacRush7"]
 	path = Assignments/Assignment-1/aesd-assignments-MacRush7
 	url = git@github.com:cu-ecen-5013/aesd-assignments-MacRush7.git
+[submodule "Assignments/Assignment-2/assignment-2-file-operations-and-cross-compiler-MacRush7"]
+	path = Assignments/Assignment-2/assignment-2-file-operations-and-cross-compiler-MacRush7
+	url = git@github.com:cu-ecen-5013/assignment-2-file-operations-and-cross-compiler-MacRush7.git
+[submodule "Assignments/Assignment-3/aesd-assignments-3-and-later-MacRush7"]
+	path = Assignments/Assignment-3/aesd-assignments-3-and-later-MacRush7
+	url = git@github.com:cu-ecen-5013/aesd-assignments-3-and-later-MacRush7.git
