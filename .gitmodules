@@ -7,3 +7,27 @@
 [submodule "Assignments/Assignment-3/aesd-assignments-3-and-later-MacRush7"]
 	path = Assignments/Assignment-3/aesd-assignments-3-and-later-MacRush7
 	url = git@github.com:cu-ecen-5013/aesd-assignments-3-and-later-MacRush7.git
+[submodule "Assignments/Assignment-4/aesd-assignments-3-and-later-MacRush7"]
+	path = Assignments/Assignment-4/aesd-assignments-3-and-later-MacRush7
+	url = git@github.com:cu-ecen-5013/aesd-assignments-3-and-later-MacRush7.git
+[submodule "Assignments/Assignment-5/assignment-5-multithreaded-socket-server-MacRush7"]
+	path = Assignments/Assignment-5/assignment-5-multithreaded-socket-server-MacRush7
+	url = git@github.com:cu-ecen-5013/assignment-5-multithreaded-socket-server-MacRush7.git
+[submodule "Assignments/Assignment-6/assignment-6-yocto-environment-bringup-MacRush7"]
+	path = Assignments/Assignment-6/assignment-6-yocto-environment-bringup-MacRush7
+	url = git@github.com:cu-ecen-5013/assignment-6-yocto-environment-bringup-MacRush7.git
+[submodule "Assignments/Assignment-7/assignment-7-buildroot-and-yocto-kernel-builds-MacRush7"]
+	path = Assignments/Assignment-7/assignment-7-buildroot-and-yocto-kernel-builds-MacRush7
+	url = git@github.com:cu-ecen-5013/assignment-7-buildroot-and-yocto-kernel-builds-MacRush7.git
+[submodule "Assignments/Assignment-8/assignment-8-char-driver-and-multithreading-MacRush7"]
+	path = Assignments/Assignment-8/assignment-8-char-driver-and-multithreading-MacRush7
+	url = git@github.com:cu-ecen-5013/assignment-8-char-driver-and-multithreading-MacRush7.git
+[submodule "Assignments/Assignment-9/assignment-9-advanced-char-driver-MacRush7"]
+	path = Assignments/Assignment-9/assignment-9-advanced-char-driver-MacRush7
+	url = git@github.com:cu-ecen-5013/assignment-9-advanced-char-driver-MacRush7.git
+[submodule "Final Project/Application Source Repository/final-project-assignment-MacRush7"]
+	path = Final Project/Application Source Repository/final-project-assignment-MacRush7
+	url = git@github.com:cu-ecen-5013/final-project-assignment-MacRush7.git
+[submodule "Final Project/Buildroot Repository/final-project-assignment-sast7580"]
+	path = Final Project/Buildroot Repository/final-project-assignment-sast7580
+	url = git@github.com:cu-ecen-5013/final-project-assignment-sast7580.git
